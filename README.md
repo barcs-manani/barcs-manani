@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Berclay Manani
 =======================================================================================================================================
 
-Full-stack Developer & System Architect
+Full-stack Developer & Software Architect
 ---------------------------------------
 
-I've been learning software development and was lucky to get a full-time job as a full-stack developer, which helped me realize that I still have a lot of 'base' concepts to grasp, and this is why I'm pivoting to system design and software architecture. As part of this journey, I also hope to become proficient in DevOps
+I've been learning software development and was lucky to get a full-time job as a full-stack developer. Working in this position helped me realize that I still have a lot of 'base' concepts to grasp, and this is why I'm pivoting to system design and software architecture. As part of this journey, I'm aiming for a proficiency in DevOps
 
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [berclaym@gmail.com](mailto:berclaym@gmail.com)
